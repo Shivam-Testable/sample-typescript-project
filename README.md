@@ -1,4 +1,4 @@
-# React TypeScript Cheatsheet
+# React TypeScript Cheatsheet Test
 
 Cheatsheet for using React with TypeScript test.
 
